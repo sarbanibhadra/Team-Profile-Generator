@@ -84,4 +84,4 @@ node index.js
 * The sample HTML file generated using your application. 
 <img width="1470" alt="Screenshot 2024-02-29 at 13 20 13" src="https://github.com/sarbanibhadra/Team-Profile-Generator/assets/28161929/1a2bc966-6f1c-40c9-a725-f605b1778a9c">
 * The URL of the GitHub repository, with a unique name and a readme describing the project.
-
+https://github.com/sarbanibhadra/Team-Profile-Generator/blob/main/README.md
