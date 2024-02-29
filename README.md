@@ -120,7 +120,8 @@ This Challenge is graded based on the following criteria:
 
 You are required to submit the following for review:
 
-* A sample HTML file generated using your application.
+* A sample HTML file generated using your application. 
+<img width="1470" alt="Screenshot 2024-01-30 at 20 40 44" src="https://github.com/sarbanibhadra/Team-Profile-Generator/assets/28161929/4e225f2b-081a-445c-b610-1a4c9de5415c">
 
 * The URL of the GitHub repository, with a unique name and a readme describing the project.
 
