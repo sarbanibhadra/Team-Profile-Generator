@@ -12,7 +12,6 @@ const outputPath = path.join(OUTPUT_DIR, "team.html");
 const render = require("./src/page-template.js");
 
 // TODO: Write Code to gather information about the development team members, and render the HTML file.
-
 const writeFileAsync = util.promisify(fs.writeFile);
 var team = [];
 
@@ -51,18 +50,18 @@ Engineer_Question = [{
   },
   {
   type: 'input',
-  name: 'Id',
-  message: 'What is engineer\'s employee ID?',
+  name: 'id',
+  message: 'What is Engineer\'s employee ID?',
   },
   {
   type: 'input',
   name: 'email',
-  message: 'What is engineer\'s email id?',
+  message: 'What is Engineer\'s email id?',
   },
 {
 type: 'input',
 name: 'github',
-message: 'What is manager\'s github name?',
+message: 'What is Engineer\'s github name?',
 },]
                         
 
@@ -70,22 +69,22 @@ Intern_Question = [
   {
     type: 'input',
     name: 'name',
-    message: 'What is intern\'s name?',
+    message: 'What is Intern\'s name?',
 },
 {
     type: 'input',
     name: 'id',
-    message: 'What is intern\'s employee ID?',
+    message: 'What is Intern\'s employee ID?',
 },
 {
     type: 'input',
     name: 'email',
-    message: 'What is intern\'s email id?',
+    message: 'What is Intern\'s email id?',
 },
 {
     type: 'input',
     name: 'school',
-    message: 'What is intern\'s school name?',
+    message: 'What is Intern\'s school name?',
 },
 ]                    
                     
