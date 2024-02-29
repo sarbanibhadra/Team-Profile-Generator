@@ -79,49 +79,9 @@ node index.js
 * I had created the `output` folder before running the appliocation.
 
 ---
-
-## Grading Requirements
-
-This Challenge is graded based on the following criteria: 
-
-### Deliverables: 25%
-
-* A sample HTML file generated using the application must be submitted
-
-* Your GitHub repository containing your application code.
-
-### Technical Acceptance Criteria: 50%
-
-* Satisfies all of the preceding acceptance criteria plus the following:
-
-	* Uses the [Inquirer package](https://www.npmjs.com/package/inquirer).
-
-	* All tests pass using the [Jest package](https://www.npmjs.com/package/jest).
-
-  * The application must have `Employee`, `Manager`, `Engineer`, and `Intern` classes.
-
-### Repository Quality: 25%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-
-* Repository contains a high-quality readme with description.
-
----
-
-
-
 ## Review
 
-You are required to submit the following for review:
-
-* A sample HTML file generated using your application. 
+* The sample HTML file generated using your application. 
 <img width="1470" alt="Screenshot 2024-02-29 at 13 20 13" src="https://github.com/sarbanibhadra/Team-Profile-Generator/assets/28161929/1a2bc966-6f1c-40c9-a725-f605b1778a9c">
 * The URL of the GitHub repository, with a unique name and a readme describing the project.
 
