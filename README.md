@@ -1,4 +1,4 @@
-# Module 12 Object-Oriented Programming: Team Profile Generator
+# Team Profile Generator
 
 ## Task
 
